@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/.github.io/Data_App/static/css/main.a6883cdd.css",
-    "main.js": "/.github.io/Data_App/static/js/main.eb606e88.js",
-    "static/js/488.bb9b3736.chunk.js": "/.github.io/Data_App/static/js/488.bb9b3736.chunk.js",
-    "index.html": "/.github.io/Data_App/index.html",
-    "main.a6883cdd.css.map": "/.github.io/Data_App/static/css/main.a6883cdd.css.map",
-    "main.eb606e88.js.map": "/.github.io/Data_App/static/js/main.eb606e88.js.map",
-    "488.bb9b3736.chunk.js.map": "/.github.io/Data_App/static/js/488.bb9b3736.chunk.js.map"
+    "main.css": "/Data_App/static/css/main.a6883cdd.css",
+    "main.js": "/Data_App/static/js/main.a86ef861.js",
+    "static/js/488.bb9b3736.chunk.js": "/Data_App/static/js/488.bb9b3736.chunk.js",
+    "index.html": "/Data_App/index.html",
+    "main.a6883cdd.css.map": "/Data_App/static/css/main.a6883cdd.css.map",
+    "main.a86ef861.js.map": "/Data_App/static/js/main.a86ef861.js.map",
+    "488.bb9b3736.chunk.js.map": "/Data_App/static/js/488.bb9b3736.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a6883cdd.css",
-    "static/js/main.eb606e88.js"
+    "static/js/main.a86ef861.js"
   ]
 }

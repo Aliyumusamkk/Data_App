@@ -1,0 +1,19 @@
+
+.banner-bg{
+background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(5,1,33,1) 26%, rgba(11,3,43,0.5926724137931034) 76%, rgba(0,212,255,1) 100%);
+}
+.text-color{
+  color: #ffff;
+}
+
+.text-color1{
+  color: #020024;
+}
+
+.text-color2{
+  color: rgba(0,212,255,1);
+  font-size: 25px;
+}
+.btn-style{
+  box-shadow: 5px 5px #020024;;
+}

@@ -11,15 +11,15 @@ function App() {
       <section className="body">
           <div className="container-lg">
             <div className="row justify-content-center align-items-center py-lg-5">
-            <div className="col-md-5 text-center py-lg-5">
-              <img className='image img-fluid' src={require('./img/person.jfif')} alt="Images missed"/>
+            <div className="col-md-5 text-center py-lg-5 mt-3 ">
+              <img className='image img-fluid ' src={require('./img/person.jfif')} alt="Images missed"/>
               </div>
-              <div className="col-md-5 text-center text-md-start mb-3">
+              <div className="col-md-5 text-center text-md-start mb-3 py-sm-5">
                 <h1>
-                  <div className="text-color1 fw-bold">Start Business</div>
+                  <div className="text-color1 fw-bold mt-3">Start Business</div>
                   <div className="text-color2">Get cheap data And Airtime by starting using App</div>
                 </h1>
-                <a href="" className="btn btn-primary btn-style ">Get Started</a>
+                <a href="/vtu-app/src/App.js" className="btn btn-primary btn-style ">Get Started</a>
               </div>
             </div>
           </div>

@@ -1,8 +1,8 @@
 {
-  "homepage": "https://Aliyumusamkk/.github.io/Data_App",
   "name": "vtu-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Aliyumusamkk.github.io/Data_App",
   "dependencies": {
     "bootstrap": "^5.2.3",
     "cra-template": "1.2.0",

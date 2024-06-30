@@ -15,5 +15,13 @@ background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(5,1,33,1) 26%, rgba(
   font-size: 25px;
 }
 .btn-style{
-  box-shadow: 5px 5px #090463;;
+  box-shadow: 5px 5px #0f0892;;
+}
+
+.form-style{
+  margin-left: 50%;
+}
+
+.font{
+  font-size: 12px;
 }

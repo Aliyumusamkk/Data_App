@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import '../App.css';
 
-const Registration = () => {
+const Account = () => {
     return ( 
         <>
         <div className="home banner-bg text-center text-color p-4 mb-4 p-4">
@@ -82,4 +82,4 @@ const Registration = () => {
      );
 }
  
-export default Registration;
+export default Account;

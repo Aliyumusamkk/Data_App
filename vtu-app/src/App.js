@@ -1,4 +1,4 @@
-
+import { Link } from 'react-router-dom';
 import './App.css';
 
 function App() {
@@ -19,7 +19,7 @@ function App() {
                   <div className="text-color1 fw-bold mt-3">Start Business</div>
                   <div className="text-color2 mt-2">Get cheap data And Airtime By Using Our App</div>
                 </h1>
-                <a href="/Registration.js" className="btn btn-primary btn-style mt-5">Get Started</a>
+                <Link to="/Registrations" className="btn btn-primary btn-style mt-5">Get Started</Link>
               </div>
             </div>
           </div>

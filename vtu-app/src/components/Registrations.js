@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import '../App.css';
 
 const Registration = () => {
@@ -70,7 +71,7 @@ const Registration = () => {
                     </form>
                     <a href="/" className="btn btn-primary btn-style mt-3 ">Create</a>
                     <div className="info mt-3 text-center">
-                        <p>Already have an Acount..? <a href="/">Log in</a></p>
+                        <p>Already have an Acount..? <Link to="/Loginform">Log in</Link></p>
                     </div>
                 </div>
             </div>

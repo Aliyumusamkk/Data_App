@@ -69,7 +69,7 @@ const Account = () => {
                         </svg></span>
                     </div>
                     </form>
-                    <a href="/" className="btn btn-primary btn-style mt-3 ">Create</a>
+                    <Link to="/Started" className="btn btn-primary btn-style mt-3 ">Create</Link>
                     <div className="info mt-3 text-center">
                         <p>Already have an Acount..? <Link to="/Loginform">Log in</Link></p>
                     </div>

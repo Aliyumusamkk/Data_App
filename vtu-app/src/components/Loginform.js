@@ -32,9 +32,9 @@ const Loginform = () => {
                     </div>
 
                     </form>
-                    <a href="/" className="btn btn-primary btn-style mt-3 ">Log in</a>
+                    <Link to="/Account" className="btn btn-primary btn-style mt-3 ">Log in</Link>
                     <div className="info mt-3">
-                        <p>No Acount..? <Link to="/Registrations">Create One</Link></p>
+                        <p>No Acount..? <Link to="/Account">Create One</Link></p>
                     </div>
 
                 </div>
